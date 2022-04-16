@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jozefhajnala?label=Follow)](https://twitter.com/jozefhajnala)
-[![Linkedin: jozefhajnala](https://img.shields.io/badge/-Jozef%20Hajnala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jozefhajnala/)](https://www.linkedin.com/in/jozefhajnala/)
+My name is Jozef and I am an actuary turned developer using R, Python, Scala and Spark to implement large scale risk modeling applications in the finance industry. I enjoy ensuring  reproducibility and maintainability by deploying them in an automated and containerized manner using Docker, Kubernetes and automation tools such as Jenkins or Bamboo.
 
-My name is Jozef and I am a Quantitative Developer using R, Spark and Scala to implement Risk Modeling Applications in the Insurance industry.
+In spare time I
 
-In spare time, I
-
-- 📝 Blog - About programming, CI/CD and data science topics at [jozef.io](https://jozef.io/)
-- ⌨️ Contribute - To some of my favourite open source software such as [sparklyr](https://github.com/sparklyr/sparklyr), [blogdown](https://github.com/rstudio/blogdown), [logger](https://github.com/daroczig/logger) or [testthat](https://github.com/r-lib/testthat/pull/887).
-- 💻 Program - Some R packages for fun, such as (https://github.com/jozefhajnala/languageserversetup)[languageserversetup] and (https://github.com/jozefhajnala/nhlapi)[nhlapi]
-- 📖 Write - A small online book about using Apache Spark from R efficiently at [sparkfromr.com](https://sparkfromr.com/)
+- 📝 Blog - About programming, CI/CD and data science topics at [jozef.io](https://jozef.io/),
+- ⌨️ Contribute - To some of my favorite open source software such as [sparklyr](https://github.com/sparklyr/sparklyr/pulls?q=is%3Apr+is%3Aclosed+author%3Ajozefhajnala), [blogdown](https://github.com/rstudio/blogdown/pull/382), [logger](https://github.com/daroczig/logger/pull/27) or [testthat](https://github.com/r-lib/testthat/pull/887),
+- 💻 Program - Some R and python packages for fun, such as [languageserversetup](https://cran.r-project.org/package=languageserversetup), [nhlapi](https://cran.r-project.org/package=nhlapi) and [nhlapip](https://pypi.org/project/nhlapip/),
+- 📖 Write - An online book about using Apache Spark from R efficiently at [sparkfromr.com](https://sparkfromr.com/).
 
 Get in Touch
 
